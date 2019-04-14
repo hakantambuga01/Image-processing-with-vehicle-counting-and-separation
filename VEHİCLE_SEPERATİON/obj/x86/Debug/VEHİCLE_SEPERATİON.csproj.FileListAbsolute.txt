@@ -1,0 +1,42 @@
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\VEHİCLE_SEPERATİON.exe
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\VEHİCLE_SEPERATİON.pdb
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.exe
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.pdb
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Math.dll
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.xml
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.xml
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.xml
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAKAN TAMBUĞA\Documents\Visual Studio 2010\Projects\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Math.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\VEHİCLE_SEPERATİON.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\VEHİCLE_SEPERATİON.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Math.dll
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\bin\Debug\AForge.Math.xml
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Vehicle_Seperation\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Vehic_seperation_Kod_ Açıklamaları\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Vehic_seperation_Kod_ Açıklamaları\VEHİCLE_SEPERATİON\VEHİCLE_SEPERATİON\obj\x86\Debug\VEHİCLE_SEPERATİON.pdb
